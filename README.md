@@ -1,6 +1,10 @@
-In this challenge, we are given data consisting of schools and student data. We are given the tasks of analyzing inidivudal student testing data, grouping student data based on schools, and analyzing the correlation between the test results of the students and the budget of the school. 
+# School District Summary
 
-District summary 
+## Background
+
+We are given data consisting of schools and student data and tasked with analyzing inidivudal student testing data, grouping student data based on schools, and analyzing the correlation between the test results of the students and the budget of the school. 
+
+## District summary 
 
       Create a DataFrame table consisting of 
           (1) Total Schools
@@ -13,7 +17,7 @@ District summary
           (8) Overall Passing Rate (Average of the above two)
           
 
-School Summary 
+## School Summary 
 
       Create a DataFrame table that summarizes key metrics about each school and sorts them based on top performing schools         and bottom performing schools. These metrics are       
               (1) School Name
@@ -27,12 +31,12 @@ School Summary
               (9) % Passing Reading
               (10) Overall Passing Rate (Average of the above two)
               
- Math/Reading scores by grade 
+## Math/Reading scores by grade 
  
         Create a DataFrame table that lists the average Math Score as well as another table that lists the average reading             score for students of each grade level (9th, 10th, 11th, 12th) at each school.
   
  
- Scores by School Spending/School Size/School Type 
+ ## Scores by School Spending/School Size/School Type 
  
         Create 3 DataFrame tables that breaks down school performances based on (1) school spending, (2) school size, and (3)         school type. Each table includes   
               (1) Average Math Score
