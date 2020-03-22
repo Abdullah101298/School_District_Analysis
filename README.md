@@ -33,7 +33,9 @@ We are given data consisting of schools and student data and tasked with analyzi
               
 ## Math/Reading scores by grade 
  
-        Create a DataFrame table that lists the average Math Score as well as another table that lists the average reading             score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+        Create a DataFrame table that 
+        
+           (1) Lists the average Math Score and average reading score for students of each grade level at each school.
   
  
  ## Scores by School Spending/School Size/School Type 
