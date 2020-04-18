@@ -1,6 +1,6 @@
 # School District Summary
 
-<img src="https://f0.pngfuel.com/png/386/91/yellow-and-red-school-illustration-png-clip-art.png" width="700" height="500">
+<img src="https://f0.pngfuel.com/png/386/91/yellow-and-red-school-illustration-png-clip-art.png" width="700" height="300">
 
 ## Background
 
