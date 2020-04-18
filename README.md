@@ -1,5 +1,7 @@
 # School District Summary
 
+<img src="https://f0.pngfuel.com/png/386/91/yellow-and-red-school-illustration-png-clip-art.png" width="1000" height="350">
+
 ## Background
 
 We are given data consisting of schools and student data and tasked with analyzing inidivudal student testing data, grouping student data based on schools, and analyzing the correlation between the test results of the students and the budget of the school. 
